@@ -1,0 +1,15 @@
+D:\Patika\metot\bin\Debug\net7.0\metot.exe
+D:\Patika\metot\bin\Debug\net7.0\metot.deps.json
+D:\Patika\metot\bin\Debug\net7.0\metot.runtimeconfig.json
+D:\Patika\metot\bin\Debug\net7.0\metot.dll
+D:\Patika\metot\bin\Debug\net7.0\metot.pdb
+D:\Patika\metot\obj\Debug\net7.0\metot.csproj.AssemblyReference.cache
+D:\Patika\metot\obj\Debug\net7.0\metot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\metot\obj\Debug\net7.0\metot.AssemblyInfoInputs.cache
+D:\Patika\metot\obj\Debug\net7.0\metot.AssemblyInfo.cs
+D:\Patika\metot\obj\Debug\net7.0\metot.csproj.CoreCompileInputs.cache
+D:\Patika\metot\obj\Debug\net7.0\metot.dll
+D:\Patika\metot\obj\Debug\net7.0\refint\metot.dll
+D:\Patika\metot\obj\Debug\net7.0\metot.pdb
+D:\Patika\metot\obj\Debug\net7.0\metot.genruntimeconfig.cache
+D:\Patika\metot\obj\Debug\net7.0\ref\metot.dll
